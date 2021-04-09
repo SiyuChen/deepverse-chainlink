@@ -16,7 +16,13 @@ Our vision at **DeepVerse** is to integrate machine learning and blockchain to d
 - Smart contracts logic
 
 ## What problem we are solving! 
-Last mile problem! What blockchain can not do!
+Last-mile problem! What blockchain can not do!
+
+Blockchain is good at sharing digital records and assets, where it can replace the trust between players or a central authority to verify. We have seen people claims to use blockchain for tracebility and supply chain management. The digital records may be immutable and verifiable, but how does someone know which digital record is attched to an real-life object or human. To link an entry on the blockchain, we need a physical identifier whether a small chip or QR code to links to its digital record. And this is blockchain falls down.
+
+We are using machine learning algorithms to establish the link and solve the last-mile problem, so it can be used not only to ensure data integrity but also to give individuals control over how their data is used (for academic research, for COVID contact tracing, for drug deveopment, etc.)  
+
+
 
 ## Scenerio
 verfication for objects on-chain and off-chain without a centralized human intervention or operation
