@@ -28,8 +28,13 @@ We are using machine learning algorithms to establish the link and solve the las
 
 
 
-## Scenerio
+## Scenario
 verfication for objects on-chain and off-chain without a centralized human intervention or operation
+
+1. Deepverse for product tracing
+As we all know, the tamper-proof properties of blockchain are most suitable for product tracking. However, traditional schemes are easy to be deceived because there is no mechanism to prevent people from uploading fake data to. Now, with the Deepverse's solution, you can customize a machine learning model for the product you want to track (for example, let’s say an apple recognition model), then verify if each record to be uploaded to the blockchain really means an apple.
+
+2. Deepverse for NFTs
 
 ## Attacks
 
